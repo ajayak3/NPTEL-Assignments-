@@ -1,0 +1,96 @@
+Which of the following is not a C variable?
+ a) Count123
+ b) Count_123
+ c) Count@123
+ d) X_123_Count
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) Count@123
+1 point
+A function
+ a) is a block of statements to perform some specific task
+ b) is a fundamental modular unit to perform some task
+ c) has a name and can be used multiple times
+ d) All the above options are true
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) All the above options are true
+1 point
+The execution of any C program is
+ a) Sequential
+ b) Parallel
+ c) Multi-threading
+ d) None of these
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a) Sequential
+1 point
+Syntax error occurs when
+ a) The rules of grammar of the programming language is violated
+ b) The statements in the program have no meaning
+ c) The program gives wrong or undesired output
+ d) Some illegal operation (e.g. divide by zero) is performed
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a) The rules of grammar of the programming language is violated
+1 point
+If integer needs two bytes of storage, then the minimum value of a signed integer in C would be
+ a) -65535
+ b) 0
+ c) -32,767
+ d) -32,768
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) -32,768
+1 point
+
+ a) 9
+ b) 0
+ c) 1001
+ d) Compilation Error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) Compilation Error
+1 point
+
+ a) 8.00
+ b) 4.00
+ c) 0.00
+ d) 16.00
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) 16.00
+1 point
+
+ a) a=a-b; b=a-b; a=a+b;
+ b) a=a%b; b=a+b; a=a/b;
+ c) a=a+b; b=a-b; a=a-b;
+ d) None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) a=a+b; b=a-b; a=a-b;
+1 point
+
+ a) 1 3
+ b) 3 1
+ c) 1 1
+ d) 3 3
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+b) 3 1
+
+18
+Hint
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+(Type: Numeric) 18
