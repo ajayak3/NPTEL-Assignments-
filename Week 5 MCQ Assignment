@@ -1,0 +1,100 @@
+The statement that transfers control to the beginning of the loop is called
+ a) break
+ b) continue
+ c) goto
+ d) None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+b) continue
+1 point
+In C three way transfer of control is possible using
+ a) Unary operator
+ b) Logical operator
+ c) Ternary operator
+ d) None
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) Ternary operator
+1 point
+
+ a) ‘while vs do-while’ once
+ b) ‘Out of loop’ infinite times
+ c) Both ‘while vs do-while’ and ‘Out of loop’ once
+ d) ‘while vs do-while’ infinite times
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) ‘while vs do-while’ infinite times
+1 point
+
+ a) 5
+ b) 10
+ c) No output
+ d) Compilation error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) No output
+1 point
+
+ a) True
+ b) False
+ c) Both ‘True’ and ‘False’
+ d) Compilation error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) Both ‘True’ and ‘False’
+1 point
+
+ a) After loop x=1
+ b) 1
+     After loop x=2
+ c) 1 2 3 4 5 6 7 8 9 10
+ d) No output
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) No output
+1 point
+
+ a) Error
+ b) I love C - will be printed 3 times
+ c) I love C - will be printed 6 times
+ d) I love C - will be printed 5 times
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+b) I love C - will be printed 3 times
+1 point
+
+ a) 1
+ b) 2
+ c) 3
+ d) Error
+No, the answer is incorrect.
+Score: 0
+Accepted Answers:
+c) 3
+1 point
+
+ a) n!=0
+ b) n==0
+ c) n%10==0
+ d) n/10==0
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a) n!=0
+1 point
+
+ a) 8,10
+ b) 8,9
+ c) 6, 9
+ d) 7, 10
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) 6, 9
