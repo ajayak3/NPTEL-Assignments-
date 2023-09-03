@@ -1,0 +1,99 @@
+What is the purpose of the "if-else" statement in C?
+ a) To execute a block of code repeatedly.
+ b) To declare variables and constants.
+ c) To test a condition and execute different code based on the result.
+ d) To perform mathematical calculations.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) To test a condition and execute different code based on the result.
+1 point
+What is the correct syntax for an "if-else" statement in C?
+ a) if condition { statement1; statement2; } else { statement3; }
+ b) if condition then { statement1; } else { statement2; }
+ c) if (condition) { statement1; } else { statement2; }
+ d) if condition then statement1; else statement2;
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) if (condition) { statement1; } else { statement2; }
+1 point
+Which of the following is true about nested "if-else" statements?
+ a) They are not allowed in C.
+ b) The "else" part is mandatory for every "if" statement.
+ c) They allow you to test multiple conditions and execute different blocks of code based on the results.
+ d) Nested "if-else" statements are only allowed up to two levels deep.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) They allow you to test multiple conditions and execute different blocks of code based on the results.
+1 point
+What happens if there is no "else" part in an "if-else" statement?
+ a) The program will not compile.
+ b) The program will crash at runtime.
+ c) If the condition is true, nothing happens; if the condition is false, the program crashes.
+ d) If the condition is true, the program executes the code inside the "if" block; if the condition is false, nothing happens.
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d) If the condition is true, the program executes the code inside the "if" block; if the condition is false, nothing happens.
+1 point
+Which of the following operators can be used to combine multiple conditions in an "if" statement?
+ a)    && (logical AND)
+ b)    || (logical OR)
+ c)    ! (logical NOT)
+ d)    All of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+d)    All of the above
+1 point
+
+ a) 2
+ b) 3
+ c) 4
+ d) Compiler error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+a) 2
+1 point
+If multiple conditions are used in a single "if" statement then the testing of those conditions are done
+ a) From Right to Left
+ b) From Left to right
+ c) Randomly
+ d) None of the above
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+b) From Left to right
+1 point
+
+ a) Sum of the digits of a number
+ b) The negative sum of the digits of a number
+ c) The reverse of a number
+ d) The same number is printed
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+b) The negative sum of the digits of a number
+1 point
+
+ a) a=5, b=6, c=2;
+ b) a=6, b=7, c=1;
+ c) a=6, b=6,c=2;
+ d) a=5, b=7, c=1;
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) a=6, b=6,c=2;
+1 point
+
+ a) Choice is 1
+ b) Choice other than 1
+ c) Both (a) and (b)
+ d) Syntax error
+Yes, the answer is correct.
+Score: 1
+Accepted Answers:
+c) Both (a) and (b)
